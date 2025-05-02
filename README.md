@@ -16,7 +16,7 @@ I have used a labelled dataset containing news articles along with their corresp
  2. Scikit-learn
  3. Pandas
  4. Numpy
- 5. tSeaborn
+ 5. Seaborn
  6. Matplotlib
  7. Regular Expression
 
